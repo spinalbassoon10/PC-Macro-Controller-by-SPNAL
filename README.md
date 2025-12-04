@@ -3,17 +3,17 @@
 # Screenshots
 Schematic:
 <p align="center">
-  <img width="538" alt="image" src="https://github.com/user-attachments/assets/9f75b501-b49e-446d-b8a7-db4396ab32d9" />
+  <img width="538" alt="image" src=assets/Scematic.png />
 </p>
 
 PCB:
 <p align="center">
-  <img width="538" alt="image" src="https://github.com/user-attachments/assets/db389260-39d2-49be-883a-94de51130a5a" />
+  <img width="538" alt="image" src=assets/PCB.png />
 </p>
 
 Case:
 <p align="center">
-  <img width="538" alt="image" src="https://github.com/user-attachments/assets/cd63698f-1ae7-44ee-a447-a94905a7c017" />
+  <img width="538" alt="image" src=assets/CAD.png />
 </p>
 
 # BOM:
