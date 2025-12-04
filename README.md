@@ -1,11 +1,6 @@
 # PC-Macro-Controller-by-SPNAL
 
 # Screenshots
-Overall hackpad:
-<p align="center">
-  <img width="538" alt="image" src="https://github.com/user-attachments/assets/bb97855a-88b6-46b9-bb43-a3d6b3e2443e" />
-</p>
-
 Schematic:
 <p align="center">
   <img width="538" alt="image" src="https://github.com/user-attachments/assets/9f75b501-b49e-446d-b8a7-db4396ab32d9" />
