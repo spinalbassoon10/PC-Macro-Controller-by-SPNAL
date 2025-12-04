@@ -1,6 +1,11 @@
 # PC-Macro-Controller-by-SPNAL
 
 # Screenshots
+PCB in Case:
+<p align="center">
+  <img width="538" alt="image" src=assets/Controller Assembly.png />
+</p>
+
 Schematic:
 <p align="center">
   <img width="538" alt="image" src=assets/Scematic.png />
