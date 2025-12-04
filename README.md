@@ -3,7 +3,7 @@
 # Screenshots
 PCB in Case:
 <p align="center">
-  <img width="538" alt="image" src=assets/Controller Assembly.png />
+  <img width="538" alt="image" src=assets/Controller_Assembly.png />
 </p>
 
 Schematic:
